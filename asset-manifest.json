@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gifhttprequest/static/css/main.e6c13ad2.css",
+    "main.js": "/gifhttprequest/static/js/main.e9277138.js",
+    "index.html": "/gifhttprequest/index.html",
+    "main.e6c13ad2.css.map": "/gifhttprequest/static/css/main.e6c13ad2.css.map",
+    "main.e9277138.js.map": "/gifhttprequest/static/js/main.e9277138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e9277138.js"
+  ]
+}
